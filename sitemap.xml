@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://finbus.org/</loc></url>
-<url><loc>https://finbus.org/about.html</loc></url>
-<url><loc>https://finbus.org/services.html</loc></url>
-<url><loc>https://finbus.org/industries.html</loc></url>
-<url><loc>https://finbus.org/case-studies.html</loc></url>
-<url><loc>https://finbus.org/insights.html</loc></url>
-<url><loc>https://finbus.org/careers.html</loc></url>
-<url><loc>https://finbus.org/contact.html</loc></url>
-<url><loc>https://finbus.org/privacy.html</loc></url>
-<url><loc>https://finbus.org/terms.html</loc></url>
-<url><loc>https://finbus.org/cookies.html</loc></url>
+<url><loc>https://finbus.org/about</loc></url>
+<url><loc>https://finbus.org/services</loc></url>
+<url><loc>https://finbus.org/industries</loc></url>
+<url><loc>https://finbus.org/case-studies</loc></url>
+<url><loc>https://finbus.org/insights</loc></url>
+<url><loc>https://finbus.org/careers</loc></url>
+<url><loc>https://finbus.org/contact</loc></url>
+<url><loc>https://finbus.org/privacy</loc></url>
+<url><loc>https://finbus.org/terms</loc></url>
+<url><loc>https://finbus.org/cookies</loc></url>
 </urlset>
